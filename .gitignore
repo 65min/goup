@@ -18,3 +18,7 @@ bak/
 pkg/
 .idea/
 config/
+github.com/
+golang.org/
+sourcegraph.com/
+test/
