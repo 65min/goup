@@ -1,5 +1,5 @@
 # goup
-A tool than can update java project
+A tool that can update java project
 
 这是一个用GOLANG开发的小程序。
 
